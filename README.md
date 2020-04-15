@@ -8,10 +8,10 @@ MOSIS is a simple 16-bit instruction set designed to be easily disassembled by h
 ## Exercise Worksheets
 * *Easy* - Exercises contain binary, hexadecimal instructions, disassembly. Students analyze the disassembly to solve problems.
 * *Medium* - Exercises contain binary, hexadecimal instructions.  Students disassemble using instruction set documentation and analyze diassembly to solve problems.
-* *Hard* - Exercises contain binary.  Students convert to hexadecimal, 
+* *Hard* - Exercises contain binary.  Students convert to hexadecimal, disassemble using instruction set documentation, and analyze disassembly to solve problems.
 
 ## Authors
-Formerly "n00b to l33t" by Maddie Stone & JHU/APL staff, Summer 2017
+Formerly "n00b to l33t" by Maddie Stone & JHU/APL staff, Summer 2017       
 Updated and open-sourced Spring 2020 by JHU/APL staff
 
 ## License
